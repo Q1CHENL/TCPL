@@ -1,2 +1,2 @@
 # TCPL
-exercises of The C Programming Language
+Exercises of The C Programming Language
